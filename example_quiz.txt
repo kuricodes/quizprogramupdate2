@@ -1,0 +1,55 @@
+Quiz Name:
+Enron Scandal Quiz
+High Score:
+1
+steve
+Show Answers During Test?
+False
+Quiz Questions:
+
+Question Type:
+Multiple Choice Single Answer
+Question Text:
+When was Enron founded?
+Options:
+1982
+1983
+1984
+1985
+Correct Answer:
+1985
+Question Points Value:
+10
+
+Question Type:
+Multiple Choice Multiple Answers
+Question Text:
+What companies merged to form Enron?
+Options:
+Houston Natural Gas Corporation
+South Penn Oil Company
+InterNorth Inc.
+Valero Energy
+Correct Answer:
+InterNorth Inc.
+Houston Natural Gas Corporation
+Question Points Value:
+20
+
+Question Type:
+True or False
+Question Text:
+Enron would regularly practice a now-illegal form of bookkeeping called "mark-to-market accounting", in which prospective deals were reported as profits before they closed, even if they later fell through.
+Correct Answer:
+True
+Question Points Value:
+5
+
+Question Type:
+Open Answer
+Question Text:
+Enron would regularly dump their failed or unprofitable assets into SPEs in order to keep their negative numbers off the books. What does SPE stand for?
+Correct Answer:
+Special Purpose Entity
+Question Points Value:
+20
